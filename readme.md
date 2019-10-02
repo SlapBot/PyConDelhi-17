@@ -1,6 +1,6 @@
 # PyConDelhi-17
 
-This repository contains the information about community workspace held at [Pycon]https://in.pycon.org/) to describe Stephanie in Delhi on 7-8th November.
+This repository contains the information about community workspace held at [Pycon](https://in.pycon.org/) to describe Stephanie in Delhi on 7-8th November.
 
 ## Introduction
 
@@ -10,8 +10,11 @@ at Pycon where I could give a more hands-on demo about the overall functionality
 ## Links
 
 Title: [Stephanie | Virtual Assistant At Your Service](https://slapbot.github.io/) 
+
 Author: [Ujjwal Gupta](ugupta41@gmail.com) 
+
 Github: [Stephanie-VA](https://github.com/SlapBot/stephanie-va) 
+
 Sounder: [Research Paper](https://slapbot.github.io/documentation/resources/algorithm/sounder.pdf)
 
 ![](https://github.com/SlapBot/PyConDelhi-17/blob/master/Stephanie-VA.png)
